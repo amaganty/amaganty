@@ -1,4 +1,4 @@
-# amaganty
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# Welcome to Nav's Github
+# 4th year Computer Science and Mathematics Joint Major
+# Interests : Software Dev, Game Design, Basketball
+
