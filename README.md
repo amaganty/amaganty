@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhimaganty@gmail.com**
 
-- ⚡ Fun fact **I qualified for the VEX 2017 World Robotics Champinoships and placed 2nd provincially!**
+- ⚡ Fun fact **I qualified for the VEX 2017 World Robotics Championship and placed 2nd provincially!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
