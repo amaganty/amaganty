@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, My name is Abhinav Maganty</h1>
-<h3 align="center">A passionate and driven frontend developer</h3>
+<h3 align="center">A passionate and driven frontend developer, currently taking Computing Science and Mathematics Joint Major</h3>
 
 - 🔭 I’m currently working on Python3 **Flask/Website/Game**
 
-- 🌱 I’m currently learning AWS **REACT, Django, Flask and Pyramid**
+- 🌱 I’m currently learning AWS **REACT, Django, Tensor Flow**
 
 - 👯 I’m looking to collaborate on mobile games and web applications **Personal website**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amaganty](https://github.com/amaganty)
+- 👨‍💻 All of my projects are available at [https://github.com/amaganty/Projects](https://github.com/amaganty)
 
 - 📫 How to reach me **abhimaganty@gmail.com**
 
-- ⚡ Fun fact **I like playing sports, mainly basketball and soccer.**
+- ⚡ Fun fact **I qualified for the VEX 2017 World Robotics Champinoships and placed 2nd provincially!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
