@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on mobile games and web applications **Personal website**
 
-- 👨‍💻 You can check out my Personal Portfolio Website at [Personal Portfolio](https://elastic-engelbart-33714a.netlify.app)
+- 👨‍💻 You can check out my Personal Portfolio Website at [Abhinav Maganty's Portfolio](https://elastic-engelbart-33714a.netlify.app)
 
 - 📫 How to reach me **abhimaganty@gmail.com**
 
