@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Abhinav Maganty</h1>
 <h3 align="center">A passionate and driven frontend developer</h3>
 
-- 🔭 I’m currently working on Python3 **Flappy Bird Game**
+- 🔭 I’m currently working on Python3 **Flask/Website/Game**
 
 - 🌱 I’m currently learning AWS **REACT, Django, Flask and Pyramid**
 
