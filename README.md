@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Abhinav Maganty</h1>
-<h3 align="center">A passionate and driven frontend developer, currently taking Computing Science and Mathematics Joint Major at SFU</h3>
+<h3 align="center">A passionate and driven frontend developer, currently taking Computing Science and Mathematics Joint Major Simon Fraser University</h3>
 
 - 🔭 I’m currently working on Python3 **Flask/Website/Game**
 
