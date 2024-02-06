@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning AWS **REACT, Django, Tensor Flow**
 
-- 👯 I’m looking to collaborate on mobile games and web applications **Personal website**
-
-- 👨‍💻 You can check out my Personal Portfolio Website at [Abhinav Maganty's Portfolio](https://elastic-engelbart-33714a.netlify.app)
+- 👯 I’m looking to collaborate on mobile games and web applications
 
 - 📫 How to reach me **abhimaganty@gmail.com**
 
