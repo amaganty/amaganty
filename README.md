@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, My name is Abhinav Maganty</h1>
-<h3 align="center">A passionate and driven software developer, graduated in Mathemathics (B.S) with Computing Science certificate from Simon Fraser University</h3>
+<h1 align="center">Hey, its Abhinav Maganty</h1>
+<h3 align="center"> Graduated in Mathemathics (B.S) with Computing Science certificate from Simon Fraser University</h3>
 
-- 🔭 I’m currently working on Python3 **Flask/Website/Game**
+ I’m currently working as Junior Software Engineer with focus in GenAI/ AgenticAI**
 
-- 🌱 I’m currently learning AWS **REACT, Django, Tensor Flow**
+ I’m currently learning Agentic Ai, MCPs, Predicitive Analytics**
 
-- 👯 I’m looking to collaborate on mobile games and web applications
-
-- 📫 How to reach me **abhimaganty@gmail.com**
-
-- ⚡ Fun fact **I qualified for the VEX 2017 World Robotics Championship and placed 2nd provincially!**
-
+ 📫 How to reach me **abhimaganty@gmail.com**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinavmaganty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavmaganty" height="30" width="40" /></a>
