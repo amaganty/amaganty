@@ -1,13 +1,31 @@
-<h1 align="center">Hey, its Abhinav Maganty</h1>
-<h3 align="center"> Graduated in Mathemathics (B.S) with Computing Science certificate from Simon Fraser University</h3>
+# Personal landing page
 
- I’m currently working as Junior Software Engineer with focus in GenAI/ AgenticAI**
+A clean, single-page portfolio for Abhinav Maganty to showcase focus areas, tools, and contact links. The page is built with plain HTML/CSS (no build step or framework required).
 
- I’m currently learning Agentic Ai, MCPs, Predicitive Analytics**
+## Preview
+Open `index.html` in any browser, or serve locally for live reload:
 
- 📫 How to reach me **abhimaganty@gmail.com**
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinavmaganty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavmaganty" height="30" width="40" /></a>
-</p>
+```bash
+python -m http.server 8000
+```
+
+Then visit http://localhost:8000.
+
+### Interactive bits
+- Theme toggle (remembers your choice)
+- Highlight filters
+- Timeline expand/collapse
+- Copy email shortcut
+
+## Deploying to GitHub Pages
+1. Push the repository to GitHub.
+2. In **Settings → Pages**, choose the `main` branch as the source and set `/ (root)` as the folder.
+3. Save to publish. Your site will be available at the GitHub Pages URL for the repo.
+
+## Structure
+- `index.html` – content and layout for the landing page.
+- `styles.css` – styling, typography, and responsive layout.
+
+## Contact
+- Email: [abhimaganty@gmail.com](mailto:abhimaganty@gmail.com)
+- LinkedIn: [linkedin.com/in/abhinavmaganty](https://linkedin.com/in/abhinavmaganty)
