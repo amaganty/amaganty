@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abhinav Maganty | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <nav class="topbar">
+        <div class="brand">Abhinav Maganty</div>
+        <div class="topbar__actions">
+          <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme">
+            <span class="theme-icon">☾</span>
+          </button>
+          <a class="icon-btn" href="#contact" aria-label="Jump to contact">✉</a>
+        </div>
+      </nav>
+      <div class="hero__content">
+        <p class="eyebrow">GenAI | Agentic Systems | Predictive Analytics</p>
+        <h1><span class="subtle">Hi, I'm</span> Abhinav Maganty</h1>
+        <p class="lead">Engineer focused on agentic systems, MCP integrations, and measurable analytics. I ship production features with clear data contracts, observability, and repeatable workflows.</p>
+        <div class="cta-group">
+          <a class="btn primary" href="mailto:abhimaganty@gmail.com">Email</a>
+          <a class="btn ghost" href="https://linkedin.com/in/abhinavmaganty" target="_blank" rel="noreferrer">LinkedIn</a>
+          <button id="copy-email" class="btn text" type="button">Copy email</button>
+        </div>
+      </div>
+      <div class="hero__panel">
+        <div class="panel-card">
+          <p class="panel-label">Currently focused</p>
+          <ul>
+            <li>Agentic AI runtimes with MCP adapters</li>
+            <li>Evaluations & observability for GenAI workflows</li>
+            <li>Predictive analytics with clean data contracts</li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="section__header">
+          <p class="eyebrow">Highlights</p>
+          <h2>What I'm building</h2>
+          <p class="section__hint">Hands-on work that blends agentic systems, data foundations, and developer experience.</p>
+        </div>
+        <div class="filter-controls" role="group" aria-label="Filter highlights">
+          <button class="chip active" data-filter="all" type="button">All</button>
+          <button class="chip" data-filter="agentic" type="button">Agentic AI</button>
+          <button class="chip" data-filter="data" type="button">Data & Analytics</button>
+          <button class="chip" data-filter="devx" type="button">Developer Experience</button>
+        </div>
+        <div class="cards grid">
+          <article class="card" data-category="agentic">
+            <p class="card__eyebrow">Agentic AI</p>
+            <h3>Adaptive MCP agents</h3>
+            <p>Designing modular MCP tools for retrieval, structured actions, and safe handoffs to improve reliability in dynamic environments.</p>
+            <ul class="pill-list">
+              <li class="pill">LangChain/MCP</li>
+              <li class="pill">Playwright</li>
+              <li class="pill">Guardrails</li>
+            </ul>
+          </article>
+          <article class="card" data-category="data">
+            <p class="card__eyebrow">Data & analytics</p>
+            <h3>Predictive insights</h3>
+            <p>Building data pipelines that enforce contracts, keep lineage visible, and surface actionable forecasts to stakeholders.</p>
+            <ul class="pill-list">
+              <li class="pill">Python</li>
+              <li class="pill">Pandas</li>
+              <li class="pill">dbt</li>
+            </ul>
+          </article>
+          <article class="card" data-category="devx">
+            <p class="card__eyebrow">Developer experience</p>
+            <h3>Reliable shipping</h3>
+            <p>Creating tooling and automation that make it easy to test, observe, and iterate on AI features without slowing teams down.</p>
+            <ul class="pill-list">
+              <li class="pill">CI/CD</li>
+              <li class="pill">Observability</li>
+              <li class="pill">Playbooks</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section accent">
+        <div class="section__header">
+          <p class="eyebrow">Toolbox</p>
+          <h2>Tech I reach for</h2>
+          <p class="section__hint">A concise snapshot of languages, frameworks, and workflows I use regularly.</p>
+        </div>
+        <div class="tools">
+          <div class="tool-group">
+            <p class="tool-label">Languages</p>
+            <p class="tool-items">Python · JavaScript/TypeScript · SQL · R</p>
+          </div>
+          <div class="tool-group">
+            <p class="tool-label">AI & Agents</p>
+            <p class="tool-items">LangChain · MCP · OpenAI APIs · Retrieval · Evaluations</p>
+          </div>
+          <div class="tool-group">
+            <p class="tool-label">Data & Analytics</p>
+            <p class="tool-items">Pandas · NumPy · dbt · Airflow · Postgres</p>
+          </div>
+          <div class="tool-group">
+            <p class="tool-label">Dev Practices</p>
+            <p class="tool-items">Testing · CI/CD · Observability · Playwright · Docker</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section__header">
+          <p class="eyebrow">Signals</p>
+          <h2>Experience snapshot</h2>
+          <p class="section__hint">Highlights that shape how I approach shipping reliable software.</p>
+        </div>
+        <div class="timeline" id="timeline">
+          <div class="timeline__item">
+            <button class="timeline__toggle" type="button" aria-expanded="false">
+              <span class="timeline__marker"></span>
+              <span class="timeline__title">Junior Software Engineer</span>
+            </button>
+            <div class="timeline__content" hidden>
+              <p class="timeline__meta">GenAI & Agentic AI · Shipping production features with MCP-style adapters and robust evaluations.</p>
+            </div>
+          </div>
+          <div class="timeline__item">
+            <button class="timeline__toggle" type="button" aria-expanded="false">
+              <span class="timeline__marker"></span>
+              <span class="timeline__title">B.S. Mathematics + Computing Science Certificate</span>
+            </button>
+            <div class="timeline__content" hidden>
+              <p class="timeline__meta">Simon Fraser University · Mathematical rigor, data, and algorithmic thinking underpin my work.</p>
+            </div>
+          </div>
+          <div class="timeline__item">
+            <button class="timeline__toggle" type="button" aria-expanded="false">
+              <span class="timeline__marker"></span>
+              <span class="timeline__title">Collaboration</span>
+            </button>
+            <div class="timeline__content" hidden>
+              <p class="timeline__meta">Partnering with teams to translate ideas into reliable, testable features that users trust.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section accent contact">
+        <div class="section__header">
+          <p class="eyebrow">Contact</p>
+          <h2>Let's collaborate</h2>
+          <p class="section__hint">Reach out for projects, collaborations, or to chat about agentic systems and data products.</p>
+        </div>
+        <div class="contact__actions">
+          <a class="btn primary" href="mailto:abhimaganty@gmail.com">Email me</a>
+          <a class="btn ghost" href="https://linkedin.com/in/abhinavmaganty" target="_blank" rel="noreferrer">LinkedIn</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Portfolio · Updated regularly with current work.</p>
+    </footer>
+  </div>
+  <script type="module" src="main.js"></script>
+</body>
+</html>
